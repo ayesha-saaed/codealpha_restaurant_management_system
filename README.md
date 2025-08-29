@@ -1,9 +1,9 @@
 🍴 Restaurant Management System
 
-A backend system for managing restaurant operations including menu, table reservations, orders, and bookings.
-Built with Node.js, Express, and MongoDB.
+    A backend system for managing restaurant operations including menu, table reservations, orders, and bookings.
+    Built with Node.js, Express, and MongoDB.
 
-🚀 Features
+🚀 Features:
 
 📋 Manage restaurant menu (add, update, delete items)
 
@@ -15,7 +15,7 @@ Built with Node.js, Express, and MongoDB.
 
 📦 MongoDB database integration
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
 Backend: Node.js, Express.js
 
@@ -23,7 +23,7 @@ Database: MongoDB + Mongoose
 
 Tools: Postman for API testing
 
-📂 Project Structure
+📂 Project Structure:
 restaurant-backend/
  ├── routes/
  │   ├── menuRoutes.js         # Menu APIs
@@ -36,7 +36,7 @@ restaurant-backend/
  ├── server.js                 # App entry point
  └── .env                      # Environment variables
 
-⚙️ Setup & Installation
+⚙️ Setup & Installation:
 
 1️⃣ Clone the repository:
 
@@ -61,7 +61,7 @@ npm start
 
 The backend runs on http://localhost:5000
 
-📌 API Endpoints
+📌 API Endpoints:
 📋 Menu
 
 GET /api/menu → Get all menu items
